@@ -6,7 +6,7 @@
       "name": "edx-credentials",
       "repository": {
         "type": "git",
-        "url": "git://github.com/edx/credentials"
+        "url": "git://github.com/openedx/credentials"
       },
       "folderName": "credentials",
       "usages": {
@@ -205,7 +205,7 @@
       "name": "edx-enterprise",
       "repository": {
         "type": "git",
-        "url": "git://github.com/edx/edx-enterprise"
+        "url": "git://github.com/openedx/edx-enterprise"
       },
       "folderName": "edx-enterprise",
       "usages": {}
@@ -213,7 +213,7 @@
     {
       "version": "12.8.0",
       "name": "edx-ora2",
-      "repository": "https://github.com/edx/edx-ora2.git",
+      "repository": "https://github.com/openedx/edx-ora2.git",
       "folderName": "edx-ora2",
       "usages": {
         "Alert": [
@@ -283,7 +283,7 @@
     {
       "version": "2.6.4",
       "name": "edx",
-      "repository": "https://github.com/edx/edx-platform",
+      "repository": "https://github.com/openedx/edx-platform",
       "folderName": "edx-platform",
       "usages": {
         "Icon": [
@@ -843,7 +843,7 @@
       "name": "@edx/frontend-app-account",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-account.git"
+        "url": "git+https://github.com/openedx/frontend-app-account.git"
       },
       "folderName": "frontend-app-account",
       "usages": {
@@ -7498,7 +7498,7 @@
       "name": "@edx/frontend-app-authn",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-authn.git"
+        "url": "git+https://github.com/openedx/frontend-app-authn.git"
       },
       "folderName": "frontend-app-authn",
       "usages": {
@@ -8383,7 +8383,7 @@
       "name": "@edx/frontend-app-communications",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-communications.git"
+        "url": "git+https://github.com/openedx/frontend-app-communications.git"
       },
       "folderName": "frontend-app-communications",
       "usages": {
@@ -8790,7 +8790,7 @@
       "name": "@edx/frontend-app-course-authoring",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-course-authoring.git"
+        "url": "git+https://github.com/openedx/frontend-app-course-authoring.git"
       },
       "folderName": "frontend-app-course-authoring",
       "usages": {
@@ -10195,7 +10195,7 @@
       "name": "@edx/frontend-app-discussions",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-discussions.git"
+        "url": "git+https://github.com/openedx/frontend-app-discussions.git"
       },
       "folderName": "frontend-app-discussions",
       "usages": {
@@ -11168,7 +11168,7 @@
       "name": "@edx/frontend-app-ecommerce",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-ecommerce.git"
+        "url": "git+https://github.com/openedx/frontend-app-ecommerce.git"
       },
       "folderName": "frontend-app-ecommerce",
       "usages": {
@@ -11203,7 +11203,7 @@
       "name": "@edx/frontend-app-enterprise-public-catalog",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-enterprise-public-catalog.git"
+        "url": "git+https://github.com/openedx/frontend-app-enterprise-public-catalog.git"
       },
       "folderName": "frontend-app-enterprise-public-catalog",
       "usages": {
@@ -11726,7 +11726,7 @@
       "name": "@edx/frontend-app-gradebook",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-gradebook.git"
+        "url": "git+https://github.com/openedx/frontend-app-gradebook.git"
       },
       "folderName": "frontend-app-gradebook",
       "usages": {
@@ -12133,7 +12133,7 @@
       "name": "frontend-app-learner-portal-enterprise",
       "repository": {
         "type": "git",
-        "url": "https://github.com/edx/frontend-app-learner-portal-enterprise.git"
+        "url": "https://github.com/openedx/frontend-app-learner-portal-enterprise.git"
       },
       "folderName": "frontend-app-learner-portal-enterprise",
       "usages": {
@@ -14542,7 +14542,7 @@
     {
       "version": "19.19.0",
       "name": "frontend-app-learner-portal",
-      "repository": "https://github.com/edx/frontend-app-learner-portal-programs",
+      "repository": "https://github.com/openedx/frontend-app-learner-portal-programs",
       "folderName": "frontend-app-learner-portal-programs",
       "usages": {
         "Dropdown.Deprecated": [
@@ -14662,7 +14662,7 @@
       "name": "@edx/frontend-app-learner-record",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-learner-record.git"
+        "url": "git+https://github.com/openedx/frontend-app-learner-record.git"
       },
       "folderName": "frontend-app-learner-record",
       "usages": {
@@ -15041,7 +15041,7 @@
       "name": "@edx/frontend-app-learning",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-learning.git"
+        "url": "git+https://github.com/openedx/frontend-app-learning.git"
       },
       "folderName": "frontend-app-learning",
       "usages": {
@@ -17977,7 +17977,7 @@
       "name": "@edx/frontend-app-ora-grading",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-ora-grading.git"
+        "url": "git+https://github.com/openedx/frontend-app-ora-grading.git"
       },
       "folderName": "frontend-app-ora-grading",
       "usages": {
@@ -18789,7 +18789,7 @@
       "name": "@edx/frontend-app-profile",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-profile.git"
+        "url": "git+https://github.com/openedx/frontend-app-profile.git"
       },
       "folderName": "frontend-app-profile",
       "usages": {
@@ -18958,7 +18958,7 @@
       "name": "@edx/frontend-app-program-console",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-program-console.git"
+        "url": "git+https://github.com/openedx/frontend-app-program-console.git"
       },
       "folderName": "frontend-app-program-console",
       "usages": {
@@ -19035,7 +19035,7 @@
     {
       "version": "19.14.0",
       "name": "edx-frontend-app-publisher",
-      "repository": "https://github.com/edx/frontend-app-publisher",
+      "repository": "https://github.com/openedx/frontend-app-publisher",
       "folderName": "frontend-app-publisher",
       "usages": {
         "StatefulButton": [
@@ -19539,7 +19539,7 @@
       "name": "@edx/frontend-app-support",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-app-support.git"
+        "url": "git+https://github.com/openedx/frontend-app-support.git"
       },
       "folderName": "frontend-app-support-tools",
       "usages": {
@@ -20500,7 +20500,7 @@
       "name": "@edx/frontend-component-cookie-policy-banner",
       "repository": {
         "type": "git",
-        "url": "https://github.com/edx/frontend-component-cookie-policy-banner"
+        "url": "https://github.com/openedx/frontend-component-cookie-policy-banner"
       },
       "folderName": "frontend-component-cookie-policy-banner",
       "usages": {
@@ -20519,7 +20519,7 @@
       "name": "@edx/frontend-component-header-edx",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-component-header-edx.git"
+        "url": "git+https://github.com/openedx/frontend-component-header-edx.git"
       },
       "folderName": "frontend-component-header-edx",
       "usages": {
@@ -20630,7 +20630,7 @@
       "name": "@edx/frontend-component-header",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-component-header.git"
+        "url": "git+https://github.com/openedx/frontend-component-header.git"
       },
       "folderName": "frontend-component-header",
       "usages": {
@@ -20711,7 +20711,7 @@
       "name": "@edx/frontend-enterprise-catalog-search",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-enterprise.git"
+        "url": "git+https://github.com/openedx/frontend-enterprise.git"
       },
       "folderName": "catalog-search",
       "usages": {
@@ -20976,7 +20976,7 @@
     {
       "version": "12.2.0",
       "name": "@edx/frontend-learner-portal-base",
-      "repository": "https://github.com/edx/frontend-learner-portal-base",
+      "repository": "https://github.com/openedx/frontend-learner-portal-base",
       "folderName": "frontend-learner-portal-base",
       "usages": {
         "Dropdown.Deprecated": [
@@ -21072,7 +21072,7 @@
       "name": "@edx/frontend-lib-content-components",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-lib-content-components.git"
+        "url": "git+https://github.com/openedx/frontend-lib-content-components.git"
       },
       "folderName": "frontend-lib-content-components",
       "usages": {
@@ -21808,7 +21808,7 @@
       "name": "@edx/frontend-lib-special-exams",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-lib-special-exams.git"
+        "url": "git+https://github.com/openedx/frontend-lib-special-exams.git"
       },
       "folderName": "frontend-lib-special-exams",
       "usages": {
@@ -22243,7 +22243,7 @@
       "name": "@edx/frontend-platform",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-platform.git"
+        "url": "git+https://github.com/openedx/frontend-platform.git"
       },
       "folderName": "frontend-platform",
       "usages": {
@@ -22286,7 +22286,7 @@
       "name": "@edx/frontend-template-application",
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/edx/frontend-template-application.git"
+        "url": "git+https://github.com/openedx/frontend-template-application.git"
       },
       "folderName": "frontend-template-application",
       "usages": {}
@@ -22296,7 +22296,7 @@
       "name": "@edx/gatsby-react-app",
       "repository": {
         "type": "git",
-        "url": "git://github.com/edx/prospectus.git"
+        "url": "git://github.com/openedx/prospectus.git"
       },
       "folderName": "prospectus",
       "usages": {
